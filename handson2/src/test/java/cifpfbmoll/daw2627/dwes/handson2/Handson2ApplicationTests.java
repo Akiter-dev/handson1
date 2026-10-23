@@ -1,10 +1,10 @@
-package cifpfbmoll.daw._7.dwes.handson1;
+package cifpfbmoll.daw2627.dwes.handson2;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class Handson1ApplicationTests {
+class Handson2ApplicationTests {
 
 	@Test
 	void contextLoads() {

@@ -1,13 +1,13 @@
-package cifpfbmoll.daw._7.dwes.handson1;
+package cifpfbmoll.daw2627.dwes.handson2;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class Handson1Application {
+public class Handson2Application {
 
 	public static void main(String[] args) {
-		SpringApplication.run(Handson1Application.class, args);
+		SpringApplication.run(Handson2Application.class, args);
 	}
 
 }
